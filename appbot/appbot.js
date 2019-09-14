@@ -27,10 +27,7 @@ client.on('ready', () => {
 
 client.on('message', async message => {
     if (message.channel.type == "dm") return
-    if(message.isMentioned("516840368843522073")){
-        message.channel.send(message.author + ' Hunter is currently on vacation. Please don\'t ping him! Any of our other staff members are capable of helping you.')
-      }
-    if (!message.content.includes('&') || message.author.bot) return
+    if (!message.content.includes('_') || message.author.bot) return
     const isOwner = owners.includes(message.member.id)
     const args = message.content.slice(Object.keys('&').length).trim().split(/ +/g)
     const command = args.shift().toLowerCase()
