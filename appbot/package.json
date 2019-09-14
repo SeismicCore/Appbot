@@ -1,0 +1,35 @@
+{
+  "name": "appbot",
+  "version": "1.0.0",
+  "main": "appbot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node appbot.js"
+  },
+  "engines": {
+    "node": "10.16.0",
+    "npm": "*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TeamNightOwlDev/appbot.git"
+  },
+  "author": "Chris.L, Hunter.P",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TeamNightOwlDev/appbot/issues"
+  },
+  "homepage": "https://github.com/TeamNightOwlDev/appbot#readme",
+  "dependencies": {
+    "discord.js": "^11.5.1",
+    "dotenv": "^8.0.0",
+    "express": "^4.17.1",
+    "lowdb": "^1.0.0",
+    "relevant-urban": "^2.0.0",
+    "systeminformation": "^4.11.1",
+    "weather-js": "^2.0.0"
+  },
+  "devDependencies": {},
+  "keywords": [],
+  "description": ""
+}
