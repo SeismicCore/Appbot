@@ -4,7 +4,7 @@ const client = new Discord.Client({ disableEveryone: true })
 const fs = require('fs')
 client.commands = new Discord.Collection()
 const simple = require('../appbot/libs/embed')
-const owners = ['588521648349642753','516840368843522073']
+const owners = ['516840368843522073']
 const token = process.env.CLIENT_TOKEN
 
 fs.readdir('./commands/', (err, files) => {
