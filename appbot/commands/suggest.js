@@ -9,7 +9,7 @@ module.exports.run = async (client, message, args, isOwner) => {
         .setColor('RANDOM')
         .setThumbnail(message.author.avatarURL)
         .setTimestamp()
-        client.channels.get('507908076439994388').send(suggestEmbed)
+        client.channels.get('SUGGESTIONS_CHANNEL').send(suggestEmbed)
         .then(async msg=>{
             await msg.react('✅')
             await msg.react('❌')
