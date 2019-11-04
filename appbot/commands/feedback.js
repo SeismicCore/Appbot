@@ -9,7 +9,7 @@ module.exports.run = async (client, message, args, isOwner) => {
         .setColor('RANDOM')
         .setThumbnail(message.author.avatarURL)
         .setTimestamp()
-        client.channels.get('580515182711668736').send(feedbackEmbed)
+        client.channels.get('FEEDBACK_CHANNEL').send(feedbackEmbed)
     return simple.embed('Thanks for your feedback! If additional information is needed from my developers, they will contact you soon!', message)
 }
 
