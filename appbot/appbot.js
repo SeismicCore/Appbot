@@ -4,7 +4,7 @@ const client = new Discord.Client({ disableEveryone: true })
 const fs = require('fs')
 client.commands = new Discord.Collection()
 const simple = require('../appbot/libs/embed')
-const owners = ['516840368843522073']
+const owners = ['OWNERS_ID']
 const token = process.env.CLIENT_TOKEN
 
 fs.readdir('./commands/', (err, files) => {
@@ -20,8 +20,8 @@ fs.readdir('./commands/', (err, files) => {
 })
 
 client.on('ready', () => {
-    client.user.setActivity('Running Appbot 2.3.1', { type: 'STREAMING' })
-    console.log('Appbot v2.4.0 BETA Has Successfully Loaded')
+    client.user.setActivity('Running Appbot v2.3', { type: 'STREAMING' })
+    console.log('Appbot v2.3 Has Successfully Loaded')
 })
 
 
@@ -31,7 +31,7 @@ client.on('message', async message => {
     const isOwner = owners.includes(message.member.id)
     const args = message.content.slice(Object.keys('&').length).trim().split(/ +/g)
     const command = args.shift().toLowerCase()
-    var errorLogs = client.channels.get('580515191243145236')
+    var errorLogs = client.channels.get('ERROR_LOGS')
 
     let commandFile = client.commands.get(command.slice(0))
 
