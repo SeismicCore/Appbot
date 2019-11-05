@@ -9,6 +9,5 @@
 <img src="https://cdn.discordapp.com/attachments/590436031426199583/641056727843733534/unknown.png">
 <img src="https://cdn.discordapp.com/attachments/590436031426199583/641056959889670178/unknown.png">
 <img src="https://cdn.discordapp.com/attachments/590436031426199583/641057324701712384/unknown.png">
-<img src="https://cdn.discordapp.com/attachments/590436031426199583/641066392837160960/unknown.png">
   
 
