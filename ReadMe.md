@@ -3,7 +3,8 @@
 <h6>--------------------------</h6>
 <h6><b>NOTE:</b> Some of this code such as ID's, Tokens, and other words have been redacted from the file to keep the ID numbers of the official AppValley Discord Server priavte!</h6>
 <h6>--------------------------</h6>
-  <h5>Below i've added some command samples for a visual of the most used commands! NOTE: These screenshots may show ID mentions, or images loading. This is becouse these messages are EXTREAMLY old, as well as this version of the bot. Due to this, some user images, names, roles, etc have been deleted, and no longer show as they did back then.</h5>
+  <h5>Below i've added some command samples for a visual of the most used commands!</h5>
+ <h5>NOTE: These screenshots may show ID mentions, or images loading. This is becouse these messages are EXTREAMLY old, as well as this version of the bot. Due to this, some user images, names, roles, etc have been deleted, and no longer show as they did back then.</h5>
 <img src="https://cdn.discordapp.com/attachments/590436031426199583/641056270903672857/unknown.png">
 <img src="https://cdn.discordapp.com/attachments/590436031426199583/641056727843733534/unknown.png">
 <img src="https://cdn.discordapp.com/attachments/590436031426199583/641056959889670178/unknown.png">
