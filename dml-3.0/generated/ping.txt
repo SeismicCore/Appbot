@@ -1,0 +1,3 @@
+<response>
+    <description>My ping is: {{bot:ping}}ms</description>
+</response>

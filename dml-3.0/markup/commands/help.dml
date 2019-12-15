@@ -1,0 +1,8 @@
+<response>
+    <embed>
+    <feild title='AppBot v3.0 - Help'>You have reached the AppBot v3.0 help page! On this page, you will find all the information you need to interact with the bot!</feild>
+    <description>:question:   |  Currently only our top apps are signed! This means apps such as Spotify++, ISpoofer, and more are the only apps avalible due to a revoke. More in **<#517554260355973169>**!</description>
+    <feild title='Commands'>```MARKDOWN \n [_help](Outputs this help page) /n [_ping](Outputs the ping of AppBot) \n [_link](Outputs AppValley Official Website Hyperlink) \n [_viplink](Outputs AppValley Official VIP Website Hyperlink) \n [_twitter](Outputs AppValley Official Twitter Hyperlink) \n [_reddit](Outputs AppValley Official SubReddit Hyperlink) \n [_revoke](Outputs basic information on revokes) \n [_topapps](Outputs basic information about why only top apps are signed) \n [_safari](Outputs information about using Safari to install AppValley)```</feild>
+    <color>#0x36393E</color>
+    </embed>
+</response>

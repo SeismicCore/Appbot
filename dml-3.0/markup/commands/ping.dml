@@ -1,0 +1,6 @@
+<response>
+    <embed>
+    <description>:satellite:  |  Took **{{bot:ping}}ms** to ping the DiscordApp API</description>
+    <color>#0x36393E</color>
+    </embed>
+</response>

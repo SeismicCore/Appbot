@@ -1,0 +1,12 @@
+<response>
+    <embed>
+    <field title='Information'>AppBot is a DiscordApp application created by [**SeismicCore**](https://smc.wtf) for the [Official AppValley Discord Server](https://discord.gg/5FzVcfr) to help users and provide basic information. The project started as a bot to control moderation, logging, support, and much more for users and was written in Python. Then, was later re-wrrten into JavaScript to add features. Now, the project is very small as it has been replaced by SeismicCore's "Retr0n" bot, and used just to provide basic information to users. The developers at SeismicCore decided to re-write the bot again in DML (A language the team created for basic discord bots) for fun, and to provide an efficient fully woreking version of the bot!</field>
+    <field title='Links'>
+    :link:  |  [SeismicCore Website](https://smc.wtf)
+    :link:  |  [AppBot Python Version](https://github.com/SeismicCore/appbot-py)
+    :link:  |  [AppBot Javascript Edition](https://github.com/SeismicCore/appbot)
+    :link:  |  [AppBot v3.0](https://github.com/SeismicCore/appbot-dml)
+    :link:  |  [Discord Markup Language](https://github.com/SeismicCore/DiscordMarkupLanguage)</field>
+        <color>#0x36393E</color>
+    </embed>
+</response>

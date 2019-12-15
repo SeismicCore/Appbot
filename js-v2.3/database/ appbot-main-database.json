@@ -1,9 +1,9 @@
 {
   "status": {
-    "overall": "<a:check:567452249555730445> All systems are working as expected!",
-    "revoke": "<#508074501440012327>",
-    "server": "<a:check:567452249555730445> All servers working as expected.",
-    "vip": "<a:check:567452249555730445> All VIP applications working as expected.",
-    "bot": "<a:check:567452249555730445> Appbot 2.3 is here with a new and improved command handler + more effecient command loading!"
+    "overall": "",
+    "revoke": "",
+    "server": "",
+    "vip": "",
+    "bot": ""
   }
 }

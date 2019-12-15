@@ -1,0 +1,6 @@
+<settings> 
+  <prefix>/</prefix> 
+  <owner>OWNER USER ID'S, SEPERATED BY COMMA</owner>
+  <token>YOUR BOTS TOKEN</token>
+</settings>
+<startup channel='STARTUP CHANNEL ID' color='#HEX' embed='Boolean'>Start Message</startup>
